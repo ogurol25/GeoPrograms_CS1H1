@@ -12,7 +12,7 @@ public class MiltonMountains  extends World {
         }
 
     }
-
+//
 
     public void ground() {
         plane.pausetime = 0;
